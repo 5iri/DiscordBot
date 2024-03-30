@@ -14,7 +14,7 @@ client = commands.Bot(command_prefix="!", intents=intents)
 connect = sqlc.connect(
   host="localhost",
   user="root",
-  password="fgHfgH12@"
+  password=""
 )
 
 cur = connect.cursor()
@@ -533,5 +533,5 @@ async def on_member_remove(member):
     cur.execute(query)
     connect.commit()
 
-my_secret = 'OTcxNjIyNDk4NTM1ODg2ODY5.YnNL9w.h2ApFdYcCVPhCD_lhmTZHdwj-wQ'
+my_secret = ''
 client.run(my_secret)

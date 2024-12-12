@@ -1,7 +1,7 @@
 
-# DiscordBot
+# Mind Breaker Bot
 
-**DiscordBot** is a customizable bot built for Discord servers. It is designed to enhance the server experience by providing entertainment, and offering utility features for community management. The bot is flexible and can be extended with various commands and functionalities.
+**Mind Beaker Bot** is a customizable bot built for Discord servers. It is designed to enhance the server experience by providing entertainment, and offering utility features for community management. The bot is flexible and can be extended with various commands and functionalities.
 
 ## Features
 
@@ -32,7 +32,7 @@ pip install mysql-connector-python
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/LOuLOu-THEKing/DiscordBot.git
+git clone https://github.com/5iri/Mind-Breaker-Bot
 ```
 
 2. Navigate to the project directory:
